@@ -1,0 +1,18 @@
+<style>
+    <%include file="bootstrap.min.css"/>
+</style>
+<h4 style="text-align:center;width:80%;padding: 8px; line-height: 1.42857; vertical-align: top; border-top-width: 1px; border-top-color: rgb(221, 221, 221); background-color: #3399CC;color:#fff"><strong>用户运营数据报表</strong></h4>
+
+<table class="table table-bordered table-hover" style="width:80%">
+    <tr>
+    % for column in row:
+      <th style="background-color:#FFCC99;text-align:center;">${column}</th>
+    % endfor
+    % for index, rows in enumerate(rows_data):
+        <tr style="text-align:center">
+        % for column in [row_headers[index]] + rows:
+            <td>${column}</td>
+        % endfor
+        </tr>
+    % endfor
+</table>
