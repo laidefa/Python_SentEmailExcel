@@ -37,11 +37,14 @@ python发送邮件报表
 - 新闻联播
 ![【新闻联播】带你看世界](https://github.com/laidefa/Python_SentEmailExcel/raw/master/python_SentEmail/resource/xinwen.png)
 
+
 - 统计之都
 
 ![统计之都文章列表](https://github.com/laidefa/Python_SentEmailExcel/raw/master/python_SentEmail/resource/tjzd.png)
 
 
+- 运营统计日报
+![金爱农运营数据统计日报](https://github.com/laidefa/Python_SentEmailExcel/raw/master/python_SentEmail/resource/wnd_jsd.png)
 ---------------------------------------------------------------------------------------------------------------------------------------
 # 联系我
 
