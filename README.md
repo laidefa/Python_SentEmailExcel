@@ -34,11 +34,12 @@ python发送邮件报表
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # 效果展示
-
+- 新闻联播
 ![【新闻联播】带你看世界](https://github.com/laidefa/Python_SentEmailExcel/raw/master/python_SentEmail/resource/xinwen.png)
 
+- 统计之都
 
-
+![统计之都文章列表](https://github.com/laidefa/Python_SentEmailExcel/raw/master/python_SentEmail/resource/tjzd.png)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
